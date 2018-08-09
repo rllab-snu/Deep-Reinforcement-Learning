@@ -1,6 +1,6 @@
 # Deep-Reinforcement-Learning
 
-## Week 01: Behavior Cloning(Supervised Learnin)
+## Week 01: Behavior Cloning(Supervised Learning)
 ## Week 02: Value Iteration and Policy Iteration 
 ## Week 03: SARSA and Q Learning
 ## Week 04: Deep Q Learning
