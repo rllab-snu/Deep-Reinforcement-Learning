@@ -80,7 +80,7 @@ class CustumFrozenLakeEnv(discrete.DiscreteEnv):
                                 done = bytes(newletter) in b'GH'
                                 if newletter == b'G': rew = 1.0
                                 elif newletter == b'H': rew = -1.0
-                                else: rew = 0.0
+                                else: rew = -0.03
                                 li.append((1.0/3.0, newstate, rew, done))
                         else:
                             newrow, newcol = inc(row, col, a)
