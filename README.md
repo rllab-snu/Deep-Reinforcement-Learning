@@ -2,7 +2,7 @@
 This repository provides implementations of deep reinforcement learning algorithms.
 The codes are mainly written in python3 using Ipython Notebook.
 
-### Chapter 01: Behavior Cloning(Supervised Learning)
+### Chapter 01: Behavior Cloning (Supervised Learning)
 ### Chapter 02: Value Iteration and Policy Iteration 
 ### Chapter 03: SARSA and Q Learning
 ### Chapter 04: Deep Q Learning
